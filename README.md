@@ -28,10 +28,6 @@ Sistema de loja virtual de cupcakes com área do cliente e painel administrativo
 ### 🖥️ REEK PDV
 Sistema desktop de gestão comercial (PDV) com controle de produtos, categorias, vendas, estoque e usuários. Desenvolvido em Java SE + Swing, aplicando Programação Orientada a Objetos.
 
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=kayquepereiradev&show_icons=true&theme=default)
-
 ---
 
 📫 **Aberto a oportunidades de estágio em Engenharia de Software** — entre em contato!
