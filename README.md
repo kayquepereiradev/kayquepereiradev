@@ -20,13 +20,10 @@ Cursando **Bacharelado em Engenharia de Software** (Cruzeiro do Sul Virtual), co
 
 ![Skills](https://skillicons.dev/icons?i=java,spring,react,ts,js,nodejs,express,mysql,html,css,git,github)
 
-## 📌 Projetos em destaque
+## 📌 Projeto em destaque
 
 ### 🧁 [Loja Virtual de Cupcakes](https://github.com/kayquepereiradev/cupcakes-frontend)
 Sistema de loja virtual de cupcakes com área do cliente e painel administrativo. Frontend em React + TypeScript, backend em Java + Spring Boot + MySQL.
-
-### 🖥️ REEK PDV
-Sistema desktop de gestão comercial (PDV) com controle de produtos, categorias, vendas, estoque e usuários. Desenvolvido em Java SE + Swing, aplicando Programação Orientada a Objetos.
 
 ---
 
