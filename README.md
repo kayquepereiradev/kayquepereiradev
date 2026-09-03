@@ -1,7 +1,7 @@
 <h1 align="center">Kayque Pereira da Silva</h1>
 
 <p align="center">
-  🎓 Estudante de Engenharia de Software | 🔍 Em busca de estágio em Engenharia de Software
+  🎓 Estudante de Engenharia de Software | 🔍 Em busca de estágio
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Cursando **Bacharelado em Engenharia de Software** (Cruzeiro do Sul Virtual), com conclusão para **07/2027**. Atualmente em busca de uma vaga de **estágio em Engenharia de Software** para aplicar e evoluir meus conhecimentos na prática.
+Cursando **Bacharelado em Engenharia de Software** pela **Cruzeiro do Sul Virtual**, com conclusão em **07/2027**. Busco uma oportunidade de **estágio em Engenharia de Software** para aplicar meus conhecimentos, desenvolver novas habilidades e adquirir experiência prática na área.
 
 ## 🛠️ Stack
 
@@ -23,9 +23,9 @@ Cursando **Bacharelado em Engenharia de Software** (Cruzeiro do Sul Virtual), co
 ## 📌 Projeto em destaque
 
 ### 🧁 [Loja Virtual de Cupcakes](https://github.com/kayquepereiradev/cupcakes-frontend)
-Sistema de loja virtual de cupcakes com área do cliente e painel administrativo. Frontend em React + TypeScript, backend em Java + Spring Boot + MySQL.
+
+Sistema de loja virtual de cupcakes com área do cliente e painel administrativo. Desenvolvido com **React + TypeScript** no frontend e **Java + Spring Boot + MySQL** no backend.
 
 ---
 
 📫 **Aberto a oportunidades de estágio em Engenharia de Software** — entre em contato!
-
