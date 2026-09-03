@@ -18,7 +18,7 @@ Cursando **Bacharelado em Engenharia de Software** (Cruzeiro do Sul Virtual), co
 
 ## 🛠️ Stack
 
-![Skills](https://skillicons.dev/icons?i=java,spring,react,ts,js,nodejs,express,mysql,html,css,git,github)
+![Skills](https://skillicons.dev/icons?i=java,spring,react,nodejs,mysql,html,css,git,github)
 
 ## 📌 Projeto em destaque
 
