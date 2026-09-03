@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Cursando **Bacharelado em Engenharia de Software** (Cruzeiro do Sul Virtual), com previsão de conclusão em **07/2027**. Atualmente em busca de uma vaga de **estágio em Engenharia de Software** para aplicar e evoluir meus conhecimentos na prática.
+Cursando **Bacharelado em Engenharia de Software** (Cruzeiro do Sul Virtual), com em conclusão em **07/2027**. Atualmente em busca de uma vaga de **estágio em Engenharia de Software** para aplicar e evoluir meus conhecimentos na prática.
 
 ## 🛠️ Stack
 
